@@ -46,6 +46,29 @@
   
   * Investing strategies
     * Buy and  hold
+      * Purchasing a property and renting it out for an extended period of time
+      * Most important thing is how to evaluate deals. Most mistakes are buying bad deal because not understand property evaluation or underestimate expenses, making bad decisions on tenant selection and failing to properly manage assets.
+      * Real estate market cycles
+        * The Bottom: Prices bottom out, causing investors to start purchasing much of the excess inventory. Deals are plentiful and cashﬂow is at an all-time high.
+        * The Climb: Confidence among home buyers improves, leading to more sales, decreasing inventory, and higher prices.
+        * The Peak: Prices are at an all-time high, inventory is down, multiple oﬀers are common, even above asking price.
+        * The Tipping Point: Prices begin to fall, compensating for the over-building and high-prices. Foreclosures begin rising, as homeowners cannot sell due to owning more than their home is worth.
+        * The Decline: Prices continue to fall, foreclosures ﬂood the market. People are fearful of buying, causing even more inventory and driving prices down.
+        
+    * Flipping Real Estate
+      * That is the practice of buying a piece of real estate at a discounted price, improving it and then selling it for a profit
+      * The most popular type pf property to flip is the single family home
+      * **70% rule**: An experienced house flipper will buy a home for 70% of its current value (minus any rehab costs)
+      * Ex: Home A worth $100,000 if in good condition, but need $20,000 rehab. Buyer should buy it at cost of $100,000 * 70% - $20,000 = $50,000 and seek to sell it for the full $100,000 when the worked is completed.
+      * One of the key aspects in flipping is speed, a house flipper will attempt to buy, rehab, and sell as quick as possible.
+      * Books: The Book on estimating rehab costs, The book on Flipping houses
+    * Wholesaling real estate
+      * This process involves finding great real estate deals, writing a contract to acquire the deal, and selling the contract another buyer
+       * Low start-up costs
+
+### 
+        
+      
         
         
 
@@ -55,3 +78,4 @@ Questions:
 - Hard-money lender
 - Appraiser
 - Due diligence
+- Equity
