@@ -66,7 +66,27 @@
       * This process involves finding great real estate deals, writing a contract to acquire the deal, and selling the contract another buyer
        * Low start-up costs
 
-### 
+### Creating a Real Estate Investing Business Plan
+ * **Mission Statement**: 
+ * **Goals**: Short-term goal is to start rental porfolio with buy-and-hold stratergy for SFRs or Multifamily, long-term goal is to extend it to complexes level. Short-term should have cashflow of at least $1,000/month and completed by end of 2019. 
+ * **Strategy**: Buy-and-hold stratergy for SFHs and Multifamily houses
+ * **Timeline**: $1,000/month passive income by 2019, $10,000/month passive income by 2025. Retired by 2030/month with $20,000+ passive income
+ * **Market**: Low-income property
+ * **Criteria**:
+   * House should have at lease 3 bedrooms, 2 bathrooms, price up to $50,000 ($100,000 if it's really nice house), build after 1960
+   * Max rehab budget: $20,000
+   * 70% ARP rule, 50% rule, 1 - 2% rule
+ * **Flexibility**: Extend to $100,000 max purchase price if criteria doesn't give much results
+ * **Financing Deals**: Conventional loans or Home Equity Line of Credit
+ * **How you do your deals**: 
+   * Visit the house
+   * Estimate the price with all rules
+   * Give an offer
+   * Call for inspection
+   * Sign the contract, then do the closing
+   * Rehab
+   * Hire property manager to put on for rent
+  
         
       
         
