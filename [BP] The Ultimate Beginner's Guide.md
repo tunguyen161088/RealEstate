@@ -79,18 +79,24 @@
  * **Flexibility**: Extend to $100,000 max purchase price if criteria doesn't give much results
  * **Financing Deals**: Conventional loans or Home Equity Line of Credit
  * **How you do your deals**: 
-   * Visit the house
+   * Visit the house (need agent)
    * Estimate the price with all rules
-   * Give an offer
-   * Call for inspection
-   * Sign the contract, then do the closing
-   * Rehab
-   * Hire property manager to put on for rent
-  
-        
-      
-        
-        
+   * Give an offer (need mortgage broker)
+   * Call for inspection (need inspector)
+   * Sign the contract, then do the closing (need attorney + escrow officer)
+   * Rehab (need contractor)
+   * Hire property manager to put on for rent (need property manager + insurance agent)
+ * **Teams and Systems**:
+   * Mortgage broker/loan officer: to get your loan
+   * Real estate attorney: to go through contracts and knows the legalities.
+   * Escrow officer/title rep: responsible to close the deal,  taking you from the offer to the keys
+   * [Optional] Accountant
+   * Insurance agent
+   * Contractor
+   * Real estate agent
+   * Property manager
+   * Handyman
+ * **Exit strategies & backup plans**:Flip
 
 Questions:
 
