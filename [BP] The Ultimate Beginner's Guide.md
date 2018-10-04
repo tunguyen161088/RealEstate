@@ -98,6 +98,44 @@
    * Handyman
  * **Exit strategies & backup plans**:Flip
 
+### Profit
+ * Selection criteria
+   * Town
+   * Neighborhood
+   * Property size (square feet)
+   * Lot size
+   * Property condition
+   * Number of units
+   * Cap rate
+   * Cash flow
+   * Appreciation potential
+   
+ * Rules
+   * 2 Percent rule
+     * Monthly rent should be about 2% of the purchase price
+     * Ex: A $100,000 home should rent for $2,000 per month
+   
+   * 50 Percent rule
+     * 50% of your income will be spent on expenses (not including the mortgage payment) like repairs, vacancies, utilities, taxes, insurance, management, turnover costs...
+     * Ex: Rent for an apartment building brings in $8,000, we have $4,000 left for mortgage payment. If mortgage is $3,000, cashflow is about $500
+     
+   * 70 Percent rule
+     * To determine max price they can pay for a property based on the after-repair value (ARV)
+     * House sells for ARV $200,000 ARV, need $35,000 for rehab, max price could be 0.7 * $200,000 - $35,000 = $105,000
+ 
+ * Where to find houses
+   * Multiple Listing Service like realtor.com or redfin.com
+   * Craiglist
+   * Loopnet
+
+ * Steps of buing property
+   * Find property
+   * Run through filter 
+   * Make an offer and negotiation
+   * Inspections then hand details over to title escrow or local attorney
+   * Also, during above step time, submit necessary paperwork and line up contractors
+   
+
 Questions:
 
 - Leverage
@@ -105,3 +143,4 @@ Questions:
 - Appraiser
 - Due diligence
 - Equity
+- 1031 exchanges: avoiding taxes on a sale
