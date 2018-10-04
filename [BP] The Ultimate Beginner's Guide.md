@@ -123,6 +123,11 @@
      * To determine max price they can pay for a property based on the after-repair value (ARV)
      * House sells for ARV $200,000 ARV, need $35,000 for rehab, max price could be 0.7 * $200,000 - $35,000 = $105,000
  
+   * The rule of 72
+     * Divide 72 by the rate of return, adn the result will be an estimate of the number of years it takes to double your investment
+     * Ex: Cap rate 8%. It will take 72 / 8 = 9 years to double it
+     * Ex: Invest $500,000. Goal is to get $3,000,000 in 10 years. Call rate x. We have 72 / x = 10 / 2.5 where 2.5 is times $500,000 need to double to get to $3,000,0000. => x = 72 * 2.5 / 10 = 18%
+ 
  * Where to find houses
    * Multiple Listing Service like realtor.com or redfin.com
    * Craiglist
